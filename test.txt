@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 hello world! master2
 testmaster1
+>>>>>>> master2
